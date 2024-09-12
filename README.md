@@ -1,2 +1,2 @@
-# API_340
-api assignment
+API with Java, SpringBoot, Maven
+On POSTMAN: http://localhost:8080/random-dog (GET)
